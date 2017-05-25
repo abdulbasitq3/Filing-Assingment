@@ -1,0 +1,18 @@
+c:\users\owais ul wara\documents\visual studio 2012\Projects\Directory_Work\Directory_Work\bin\Debug\Directory_Work.exe.config
+c:\users\owais ul wara\documents\visual studio 2012\Projects\Directory_Work\Directory_Work\bin\Debug\Directory_Work.exe
+c:\users\owais ul wara\documents\visual studio 2012\Projects\Directory_Work\Directory_Work\bin\Debug\Directory_Work.pdb
+c:\users\owais ul wara\documents\visual studio 2012\Projects\Directory_Work\Directory_Work\obj\Debug\Directory_Work.csprojResolveAssemblyReference.cache
+c:\users\owais ul wara\documents\visual studio 2012\Projects\Directory_Work\Directory_Work\obj\Debug\Directory_Work.Form1.resources
+c:\users\owais ul wara\documents\visual studio 2012\Projects\Directory_Work\Directory_Work\obj\Debug\Directory_Work.Properties.Resources.resources
+c:\users\owais ul wara\documents\visual studio 2012\Projects\Directory_Work\Directory_Work\obj\Debug\Directory_Work.csproj.GenerateResource.Cache
+c:\users\owais ul wara\documents\visual studio 2012\Projects\Directory_Work\Directory_Work\obj\Debug\Directory_Work.exe
+c:\users\owais ul wara\documents\visual studio 2012\Projects\Directory_Work\Directory_Work\obj\Debug\Directory_Work.pdb
+C:\Users\abdul\Desktop\Directory_Work\Directory_Work\bin\Debug\Directory_Work.exe.config
+C:\Users\abdul\Desktop\Directory_Work\Directory_Work\obj\Debug\Directory_Work.pdb
+C:\Users\abdul\Desktop\Directory_Work\Directory_Work\bin\Debug\Directory_Work.exe
+C:\Users\abdul\Desktop\Directory_Work\Directory_Work\bin\Debug\Directory_Work.pdb
+C:\Users\abdul\Desktop\Directory_Work\Directory_Work\obj\Debug\Directory_Work.csprojResolveAssemblyReference.cache
+C:\Users\abdul\Desktop\Directory_Work\Directory_Work\obj\Debug\Directory_Work.Form1.resources
+C:\Users\abdul\Desktop\Directory_Work\Directory_Work\obj\Debug\Directory_Work.Properties.Resources.resources
+C:\Users\abdul\Desktop\Directory_Work\Directory_Work\obj\Debug\Directory_Work.csproj.GenerateResource.Cache
+C:\Users\abdul\Desktop\Directory_Work\Directory_Work\obj\Debug\Directory_Work.exe
